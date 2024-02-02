@@ -196,3 +196,11 @@ ul.social-footer2 li a {
     transition: all 250ms ease-in-out 0s;
 
 }
+.no > h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ff8d1e;
+    text-align: center;
+}
+.no > p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
